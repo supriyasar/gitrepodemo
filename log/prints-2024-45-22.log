@@ -1,0 +1,7 @@
+16:45:35.351 [TestNG-test-Test-3] DEBUG tests.LoginTest - InitializeBrowser finished
+16:45:37.143 [TestNG-test-Test-3] DEBUG tests.LoginTest - Login Successful
+16:45:37.392 [TestNG-test-Test-3] DEBUG tests.LoginTest - closeBrowser
+16:45:37.393 [TestNG-test-Test-3] INFO  tests.LoginTest - LoginTest Started
+16:45:37.394 [TestNG-test-Test-3] DEBUG tests.LoginTest - LoginTest Started
+16:45:38.496 [TestNG-test-Test-3] DEBUG tests.LoginTest - InitializeBrowser finished
+16:45:45.288 [TestNG-test-Test-3] DEBUG tests.LoginTest - Login Failed

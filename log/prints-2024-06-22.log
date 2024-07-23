@@ -1,0 +1,8 @@
+11:58:30.773 [main] INFO  tests.LoginTest - LoginTest Started
+11:58:31.838 [main] DEBUG tests.LoginTest - InitializeBrowser finished
+11:58:33.735 [main] DEBUG tests.LoginTest - Login Successful
+11:58:34.070 [main] DEBUG tests.LoginTest - closeBrowser
+11:58:34.072 [main] INFO  tests.LoginTest - LoginTest Started
+11:58:35.388 [main] DEBUG tests.LoginTest - InitializeBrowser finished
+11:58:42.361 [main] DEBUG tests.LoginTest - Login Failed
+11:58:42.594 [main] DEBUG tests.LoginTest - closeBrowser
