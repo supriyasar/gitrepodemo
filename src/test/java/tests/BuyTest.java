@@ -16,6 +16,8 @@ public class BuyTest extends Base {
 	@BeforeMethod
 	public void openBrowser() throws IOException {
 		System.out.println("Buying test started");
+		System.out.println("Code updated by other user");
+		
 		driver = InitializeBrowser();
 	}
 
