@@ -15,6 +15,8 @@ public class RegisterTest extends Base {
 	@BeforeMethod
 	public void openBrowser() throws IOException {
 		System.out.println("Registering test started");
+		
+		System.out.println("SBranch Code updated");
 		driver = InitializeBrowser();
 
 	}
